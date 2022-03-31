@@ -1,4 +1,7 @@
-# Meu Portfolio desenvolvido de forma simples em HTML/CSS para treino, sem responsividade! 
+# Meu Portfolio desenvolvido de forma simples em HTML/CSS para treino, sem responsividade por enquanto então 
+recomendo abrir pelo computador
+
+<br>
 
 Preview de cada Sessão: 
 
